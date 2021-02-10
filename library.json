@@ -1,0 +1,21 @@
+{
+  "name": "CLRC663",
+  "version": "1.0.0",
+  "description": "This is a library for NXP's [CLRC663][nxp_CLRC663] NFC and reader IC. Master mcu can be any.",
+  "keywords": "CLRC663, NFC, NXP, RFID",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/kenny5660/CLRC663"
+  },
+  "authors":
+  [
+    {
+      "name": "Liamaev Mikhail",
+      "email": "misha25_live@mail.ru"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
